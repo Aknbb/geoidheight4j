@@ -6,7 +6,7 @@ and convert heights between the geoid and ellipsoid. This library is a Java port
 of the Geoid class from the [GeographicLib project.](https://geographiclib.sourceforge.io/) **GeoidHeight4J** is ideal for applications requiring precise geoid height calculations,
 such as geographic information systems (GIS) and geodetic applications.
 
-The reason why the class variables in this class are written with abbreviations like _rlonres and _v00 is that they are intentionally kept the same as the variable names in the [Geoid.hpp](https://github.com/ObjSal/GeographicLib/blob/master/include/GeographicLib/Geoid.hpp) class.
+The reason why the class variables in this class are written with abbreviations like _rlonres and _v00 is that they are intentionally kept the same as the variable names in the [Geoid.hpp](https://github.com/ObjSal/GeographicLib/blob/master/include/GeographicLib/Geoid.hpp) file.
 
 You can use the [Geoid Height Document](https://geographiclib.sourceforge.io/C++/doc/geoid.html) and [Geoid Class Reference](https://geographiclib.sourceforge.io/C++/doc/classGeographicLib_1_1Geoid.html) links to access EGM data and learn more about the Geoid.
  
